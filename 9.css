@@ -1,0 +1,120 @@
+.box{
+    font-size: 0;
+    width: 1000px;
+    height: 300px;
+}
+.box1{
+    border: solid 1px red;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+    font-size: 0;
+}
+.box1-1{
+    border: solid 1px purple;
+    width: 298px;
+    height: 98px;
+    position: relative;
+    font-size: 0;
+}
+.box1-1-1{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+}
+    
+.box2{
+    border: solid 1px red;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+    border-left: 0;
+}
+.box1-2{
+    border: solid 1px purple;
+    width: 298px;
+    height: 98px;
+    position: relative;
+}
+.box1-1-2{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    right:0;
+    left:0;
+    margin:auto;
+}
+.box3{
+    border: solid 1px red;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+    border-left: 0;
+}
+.box1-3{
+    border: solid 1px purple;
+    width: 298px;
+    height: 98px;
+    position: relative;
+}
+.box1-1-3{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    position: absolute;
+    top:0;
+    right:0;
+    margin:auto;
+}
+.box4{
+    border: solid 1px red;
+    width: 300px;
+    height: 101px;
+    position: relative;
+    display: inline-block;
+    border-top: 0;
+}
+.box1-4{
+    border: solid 1px purple;
+    width: 298px;
+    height: 99px;
+    position: relative;
+   
+}
+.box5{
+    border: solid 1px red;
+    width: 300px;
+    height: 101px;
+    position: relative;
+    display: inline-block;
+    border-left: 0;
+    border-top: 0;
+    
+}
+.box1-5{
+    border: solid 1px purple;
+    width: 298px;
+    height: 99px;
+    position: relative;
+}
+.box6{
+    border: solid 1px red;
+    width: 300px;
+    height: 101px;
+    position: relative;
+    display: inline-block;
+    border-left: 0;
+    border-top: 0;
+}
+.box1-6{
+    border: solid 1px purple;
+    width: 298px;
+    height: 99px;
+    position: relative;
+}
